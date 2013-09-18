@@ -1,0 +1,17 @@
+.securimage-container {
+	position: relative;
+	margin-bottom: 10px;
+}
+
+.captcha-reload {
+	background-color: rgba(0, 0, 0, 0.6);
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	height: 16px;
+}
+
+.captcha-reload a:hover {
+	background-color: rgba(0, 0, 0, 1);
+};
+
